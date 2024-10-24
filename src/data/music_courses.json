@@ -1,0 +1,94 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to JavaScript",
+      "slug": "introduction-to-javascript",
+      "description": "Learn the fundamentals of JavaScript, the most popular programming language for web development.",
+      "price": 49.99,
+      "instructor": "Jane Doe",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Advanced React Patterns",
+      "slug": "advanced-react-patterns",
+      "description": "Master advanced patterns in React to build scalable and maintainable web applications.",
+      "price": 79.99,
+      "instructor": "John Smith",
+      "isFeatured": false
+    },
+    {
+      "id": 3,
+      "title": "Data Structures and Algorithms",
+      "slug": "data-structures-algorithms",
+      "description": "Deep dive into essential data structures and algorithms to enhance your problem-solving skills.",
+      "price": 59.99,
+      "instructor": "Alice Johnson",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "UI/UX Design Principles",
+      "slug": "ui-ux-design-principles",
+      "description": "Understand the core principles of UI/UX design to create user-friendly and aesthetically pleasing interfaces.",
+      "price": 39.99,
+      "instructor": "Bob Williams",
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "title": "Full-Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Become a full-stack web developer by learning both frontend and backend technologies.",
+      "price": 99.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "title": "Introduction to JavaScript",
+      "slug": "introduction-to-javascript",
+      "description": "Learn the fundamentals of JavaScript, the most popular programming language for web development.",
+      "price": 49.99,
+      "instructor": "Anas",
+      "isFeatured": true
+    },
+    {
+      "id": 7,
+      "title": "Introduction to JavaScript",
+      "slug": "introduction-to-javascript",
+      "description": "Learn the fundamentals of JavaScript, the most popular programming language for web development.",
+      "price": 49.99,
+      "instructor": "Ahmad",
+      "isFeatured": true
+    },
+    {
+      "id": 8,
+      "title": "Introduction to JavaScript",
+      "slug": "introduction-to-javascript",
+      "description": "Learn the fundamentals of JavaScript, the most popular programming language for web development.",
+      "price": 49.99,
+      "instructor": "Ismail",
+      "isFeatured": false
+    },
+    {
+      "id": 9,
+      "title": "Introduction to JavaScript",
+      "slug": "introduction-to-javascript",
+      "description": "Learn the fundamentals of JavaScript, the most popular programming language for web development.",
+      "price": 49.99,
+      "instructor": "Lala",
+      "isFeatured": false
+    },
+    {
+      "id": 10,
+      "title": "Introduction to JavaScript",
+      "slug": "introduction-to-javascript",
+      "description": "Learn the fundamentals of JavaScript, the most popular programming language for web development.",
+      "price": 49.99,
+      "instructor": "Nagin",
+      "isFeatured": false
+    }
+  ]
+}
